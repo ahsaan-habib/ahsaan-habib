@@ -17,13 +17,13 @@ Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack developer from T
 ### Talk with me, I am kinda awesome:
 
 <a href="https://twitter.com/Ahsan_n_habib">
-  <img align="left" alt="Ahsan Habib Twitter" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/aa81c65b3da4b37698c5eb23174910e8ab0c6c43/twitter.svg" />
+  <img align="left" alt="Ahsan Habib Twitter" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/b27a16ea650fb3c86b48139bda66f2852c8da70b/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ahsan-habib-56a904183/">
-  <img align="left" alt="Ahsan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/aa81c65b3da4b37698c5eb23174910e8ab0c6c43/linkedin.svg" />
+  <img align="left" alt="Ahsan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/b27a16ea650fb3c86b48139bda66f2852c8da70b/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/ahsan.habib.n">
-  <img align="left" alt="Ahsan Habib facebook" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/aa81c65b3da4b37698c5eb23174910e8ab0c6c43/facebook.svg" />
+  <img align="left" alt="Ahsan Habib facebook" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/b27a16ea650fb3c86b48139bda66f2852c8da70b/assets/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/ahsan_habib_n/">
   <img align="left" alt="Ahsan Habib Instagram" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/instagram.png" />
