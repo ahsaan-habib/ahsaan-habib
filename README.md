@@ -67,7 +67,7 @@ Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack developer from T
 
 <br />
 
-### My Projects Demo:
+### My Recents Projects Demo:
 
 <a align="left" href="https://ahsaan-habib.github.io/">
   <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/test.gif?raw=true" />
