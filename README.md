@@ -31,28 +31,30 @@ Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack developer from T
 <a href="mailto:ahice50@gmail.com">
   <img align="left" alt="Ahsan Habib gmail" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/Gmail_Icon.png" />
 </a>
-<br/>
+
+---
 
 ### My Projects Demo:
 
-<a href="ahsaan-habib.github.io">
-  <img align="left" alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/test.gif?raw=true" />
+<a align="left" href="ahsaan-habib.github.io">
+  <p> This is a quiz test app made with django and javascript</p>
+  <img  alt="Auction project" width="400px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/test.gif?raw=true" />
 </a>
-<a href="ahsaan-habib.github.io">
-  <img align="left" alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/auction.gif?raw=true" />
+<a align="left" href="ahsaan-habib.github.io"><p> This is a quiz test app made with django and javascript</p>
+  <img  alt="Auction project" width="400px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/auction.gif?raw=true" />
 </a>
-<a href="ahsaan-habib.github.io">
-  <img align="left" alt="Auction project" width="400px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/todo.gif?raw=true" />
+<a align="left" href="ahsaan-habib.github.io"><p> This is a quiz test app made with django and javascript</p>
+  <img  alt="Auction project" width="400px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/todo.gif?raw=true" />
 </a>
-<a href="ahsaan-habib.github.io">
-  <img align="left" alt="Auction project" width="400px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/weather.gif?raw=true" />
+<a align="left" href="ahsaan-habib.github.io"><p> This is a quiz test app made with django and javascript</p>
+  <img  alt="Auction project" width="400px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/weather.gif?raw=true" />
 </a>
-<a href="ahsaan-habib.github.io">
-  <img align="left" alt="Auction project" width="400px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/mail.gif?raw=true" />
-
-<br />
-<br /><br /><br /><br /><br /><br /><br />
-<br />
+<a align="left" href="ahsaan-habib.github.io"><p> This is a quiz test app made with django and javascript</p>
+  <img  alt="Auction project" width="400px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/mail.gif?raw=true" />
+ </a>
+ 
+ ---
+ 
 
 ### Things I code with:
 
@@ -115,6 +117,9 @@ Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack developer from T
 
 <br />
 <br />
+
+***
+
 <br />
 <br />
 <br />
