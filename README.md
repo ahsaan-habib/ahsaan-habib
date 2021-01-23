@@ -34,11 +34,28 @@ Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack developer from T
 <br/>
 
 ### My Projects Demo:
-  <img align="left" alt="Auction project" width="400" height="auto" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/auction%20giphy.gif" />
+
+<a href="ahsaan-habib.github.io">
+  <img align="left" alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/test.gif?raw=true" />
+</a>
+<a href="ahsaan-habib.github.io">
+  <img align="left" alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/auction.gif?raw=true" />
+</a>
+<a href="ahsaan-habib.github.io">
+  <img align="left" alt="Auction project" width="400px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/todo.gif?raw=true" />
+</a>
+<a href="ahsaan-habib.github.io">
+  <img align="left" alt="Auction project" width="400px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/weather.gif?raw=true" />
+</a>
+<a href="ahsaan-habib.github.io">
+  <img align="left" alt="Auction project" width="400px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/mail.gif?raw=true" />
+
 <br />
 <br /><br /><br /><br /><br /><br /><br />
 <br />
-<h3>Things I code with</h3>
+
+### Things I code with:
+
 <p>
   <img width="auto" height="20px" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img width="auto" height="20px" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
