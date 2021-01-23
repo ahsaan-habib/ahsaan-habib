@@ -67,7 +67,7 @@ Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack Web Developer fr
 
 <br />
 
-### My Recents Projects Demo:
+### My Recent Projects Demo:
 
 <a align="left" href="https://ahsaan-habib.github.io/">
   <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/test.gif?raw=true" />
@@ -125,6 +125,8 @@ Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack Web Developer fr
 <br />
 
 ***
+<b />
+
 ### Most Used Languages <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 <p align="center"> <img alt="Ahsan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsaan-habib&show_icons=true&theme=gotham" alt="ahsaan-habib languages" />
