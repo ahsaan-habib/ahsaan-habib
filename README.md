@@ -69,19 +69,19 @@ Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack developer from T
 
 ### My Projects Demo:
 
-<a align="left" href="ahsaan-habib.github.io">
+<a align="left" href="https://ahsaan-habib.github.io/">
   <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/test.gif?raw=true" />
 </a>
-<a align="left" href="ahsaan-habib.github.io">
+<a align="left" href="https://ahsaan-habib.github.io/">
   <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/auction.gif?raw=true" />
 </a>
-<a align="left" href="ahsaan-habib.github.io">
+<a align="left" href="https://ahsaan-habib.github.io/">
   <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/todo.gif?raw=true" />
 </a>
-<a align="left" href="ahsaan-habib.github.io">
+<a align="left" href="https://ahsaan-habib.github.io/">
   <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/weather.gif?raw=true" />
 </a>
-<a align="left" href="ahsaan-habib.github.io">
+<a align="left" href="https://ahsaan-habib.github.io/">
   <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/mail.gif?raw=true" />
  </a>
  
@@ -125,11 +125,6 @@ Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack developer from T
 <br />
 
 ***
-
-<br />
-<br />
-<br />
-
 ### Most Used Languages <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 <p align="center"> <img alt="Ahsan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsaan-habib&show_icons=true&theme=gotham" alt="ahsaan-habib languages" />
