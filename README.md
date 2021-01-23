@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
-Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack developer from Thakurgaon, Bangladesh, currently living in Kushtia, Bangladesh.!!
+Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack Web Developer from Thakurgaon, Bangladesh, currently living in Kushtia, Bangladesh.!!
   <br/>
   <br/>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/122.gif" width="500" height="auto" />
