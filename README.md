@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
-Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack Web Developer from Thakurgaon, Bangladesh, currently living in Kushtia, Bangladesh.!!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack Web Developer from Thakurgaon, Bangladesh, currently living in Kushtia, Bangladesh.!!
   <br/>
   <br/>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/122.gif" width="500" height="auto" />
@@ -127,7 +127,7 @@ Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack Web Developer fr
 ***
 <b />
 
-### Most Used Languages <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Most Used Languages 
 <br />
 <p align="center"> <img alt="Ahsan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsaan-habib&show_icons=true&theme=gotham" alt="ahsaan-habib languages" />
  </p>
