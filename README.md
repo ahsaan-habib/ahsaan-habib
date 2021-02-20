@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about Anything, I'll happy to answer.
 - 😄 Fun fact: I love to watch popular and recent movies and series.
-- ✍ You can find my projects here **[Portfolio](ahsaan-habib.github.io)**
+- ✍ You can find my projects here **[Portfolio](https://ahsaan-habib.github.io)**
 
 ### Talk with me, I am kinda awesome:
 
