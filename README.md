@@ -1,14 +1,13 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" > Hi, I'm Ahsan Habib, a self-taught Motivated Learner, Fullstack Web Developer from Thakurgaon, Bangladesh, currently living in Kushtia, Bangladesh.!!
-  <br/>
-  <br/>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/122.gif" width="500" height="auto" />
-  
+<br/>
+<br/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/122.gif" width="300" height="auto" />
+
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on Network project from [CS50 Web](https://cs50.harvard.edu/web/2020/) with Django.
-- 🌱 I’m currently learning Angular.
+- 👨🏽‍💻 I’m currently working on Ecommerce project from [Global Marketplace online](https://globalmarketplace.online) with Django microservice & React.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about Anything, I'll happy to answer.
 - 😄 Fun fact: I love to watch popular and recent movies and series.
@@ -120,21 +119,21 @@
 <img align="left" title="django" alt="django"  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img align="left" title="Method: Agile" alt="Agile Methodology" width="36px" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/agilelogo.png?raw=true" />
 
-
 <br />
 <br />
 
-***
+---
+
 <b />
 
-### Most Used Languages 
+### Most Used Languages
+
 <br />
 <p align="center"> <img alt="Ahsan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsaan-habib&show_icons=true&theme=gotham" alt="ahsaan-habib languages" />
  </p>
 
-
-
 ### My GitHub Stats
+
 <details>
     <summary>Statistic</summary>
  <p align="center"><img src="https://gpvc.arturio.dev/ahsaan-habib" alt="Profile Views"> </p>
@@ -142,4 +141,3 @@
 </details>
 
 <br />
-
