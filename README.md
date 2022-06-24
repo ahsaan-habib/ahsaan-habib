@@ -75,19 +75,19 @@
   <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/KS-Friends-Chemical.png?raw=true" />
 </a>
 <a align="left" href="https://ahsaan-habib.github.io/">
-  <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/test.gif?raw=true" />
+  <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/test.gif?raw=true" />
 </a>
 <a align="left" href="https://ahsaan-habib.github.io/">
-  <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/auction.gif?raw=true" />
+  <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/auction.gif?raw=true" />
 </a>
 <a align="left" href="https://ahsaan-habib.github.io/">
-  <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/todo.gif?raw=true" />
+  <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/todo.gif?raw=true" />
 </a>
 <a align="left" href="https://ahsaan-habib.github.io/">
-  <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/weather.gif?raw=true" />
+  <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/weather.gif?raw=true" />
 </a>
 <a align="left" href="https://ahsaan-habib.github.io/">
-  <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/mail.gif?raw=true" />
+  <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/mail.gif?raw=true" />
  </a>
  
  <br />
