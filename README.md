@@ -78,6 +78,9 @@
   <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/test.gif?raw=true" />
 </a>
 <a align="left" href="https://ahsaan-habib.github.io/">
+  <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/vidly-app.png?raw=true" />
+</a>
+<a align="left" href="https://ahsaan-habib.github.io/">
   <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/auction.gif?raw=true" />
 </a>
 <a align="left" href="https://ahsaan-habib.github.io/">
