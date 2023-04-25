@@ -7,8 +7,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on Ecommerce project from [Global Marketplace online](https://globalmarketplace.online) with Django microservice & React.
-- 👯 I’m looking to collaborate on open source.
+- 👨🏽‍💻 I’m currently working as Software Engineer at Interlink Technologies Limited, Bangladesh
 - 💬 Ask me about Anything, I'll happy to answer.
 - 😄 Fun fact: I love to watch popular and recent movies and series.
 - ✍ You can find my projects here **[Portfolio](https://ahsaan-habib.github.io)**
@@ -18,7 +17,7 @@
 <a href="https://twitter.com/Ahsan_n_habib">
   <img align="left" alt="Ahsan Habib Twitter" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/b27a16ea650fb3c86b48139bda66f2852c8da70b/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ahsan-habib-56a904183/">
+<a href="https://www.linkedin.com/in/ahsaan-habib">
   <img align="left" alt="Ahsan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/b27a16ea650fb3c86b48139bda66f2852c8da70b/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/ahsan.habib.n">
