@@ -7,7 +7,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 Proven expertise in advanced web technologies, especially in PHP, Laravel, Python, Django, Javascript, and ReactJs.
+- 👨🏽‍💻 Proven expertise in advanced web technologies, especially in PHP, Laravel, Python, Django, Javascript, Typescript, ReactJs & NextJs.
 - 💬 Ask me about Anything, I'll be happy to answer.
 - 😄 Fun fact: I love to watch popular and recent movies and series.
 - ✍ You can find my projects here **[Portfolio](https://ahsaan-habib.github.io)**
@@ -41,6 +41,7 @@ Feel free to reach out to me for collaboration or just a friendly chat about tec
 ![Django-Rest-Framework](https://img.shields.io/badge/-Django--Rest--Framework-092E20?style=flat-square&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -90,7 +91,7 @@ My goal is to be a Technical Architect by utilizing my technical expertise and c
 
 ### Industry Experience:
 
-- **Frameworks & Technologies**: Python, Django, Django-Rest-Framework, PHP, Laravel, React, Redux, PostgreSQL, MySQL, Redis, JavaScript, Tailwind CSS, Bootstrap, HTML, CSS, Microservice Architecture, SOLID & DRY, SMS & Payment Gateway, OAuth 2.0
+- **Frameworks & Technologies**: Python, Django, Django-Rest-Framework, PHP, Laravel, React, Redux, Nextjs, PostgreSQL, MySQL, Redis, JavaScript, Tailwind CSS, Bootstrap, HTML, CSS, Microservice Architecture, SOLID & DRY, SMS & Payment Gateway, OAuth 2.0
 
 ### DevOps & Platforms:
 
