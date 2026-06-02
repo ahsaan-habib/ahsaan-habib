@@ -1,22 +1,23 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" > Hi, I'm Ahsan Habib, an innovative and Dependable Full Stack Web Developer who enjoys working with IT Solutions, Cloud, Product, and Project. Successfully completed several enterprise Website projects in over three years and know how to Write Clean code with the best logic and how to use Web technologies efficiently in enterprise solutions that comply with the latest design trends and technologies. I help convert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution helps me prioritize tasks, iterate fast, and deliver faster. I am from Thakurgaon, Bangladesh, currently living in Oulu, Finland.!!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" > Hi, I'm Ahsan Habib, a backend-focused, dependable full-stack software developer with experience building web applications, APIs, AI-enabled automation, microservice-based systems and integration-heavy products. I build scalable web systems that connect products, APIs, AI and automation. Over three years I've delivered enterprise projects with clean code and efficient use of modern web technologies, helping convert a vision and an idea into meaningful, useful products. These days I focus on backend and real-time systems, AI/LLM integration and web-scraping, working as a Top Rated freelancer on Upwork with 100% Job Success. I am from Thakurgaon, Bangladesh, currently living in Joensuu, Finland.!!
 <br/>
 <br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/122.gif" width="300" height="auto" />
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 Proven expertise in advanced web technologies, especially in PHP, Laravel, Python, Django, Javascript, Typescript, ReactJs & NextJs.
+- 👨🏽‍💻 Proven expertise in advanced web technologies, especially in Python, Django, PHP, Laravel, Node.js, Phoenix, Javascript, Typescript, ReactJs & NextJs.
+- ⚡ Currently building real-time multiplayer systems (WebSocket + LiveKit SFU) and AI/LLM-powered backend integrations.
 - 💬 Ask me about Anything, I'll be happy to answer.
 - 😄 Fun fact: I love to watch popular and recent movies and series.
-- ✍ You can find my projects here **[Portfolio](https://ahsaan-habib.github.io)**
+- ✍ You can find my projects here **[Portfolio → ahsanlab.me](https://ahsanlab.me)**
 
 ## 📫 Let's Connect!
 
 Feel free to reach out to me for collaboration or just a friendly chat about tech and innovations!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Ahsan_Habib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahsaan-habib)](https://www.linkedin.com/in/ahsaan-habib) [![Gmail Badge](https://img.shields.io/badge/-ahsan.habib.pro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahsan.habib.pro@gmail.com)](mailto:ahsan.habib.pro@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Ahsan_Habib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahsaan-habib)](https://www.linkedin.com/in/ahsaan-habib) [![Gmail Badge](https://img.shields.io/badge/-ahsan.habib.pro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahsan.habib.pro@gmail.com)](mailto:ahsan.habib.pro@gmail.com) [![Upwork Badge](https://img.shields.io/badge/-Top_Rated_on_Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/ahsan01)](https://www.upwork.com/freelancers/ahsan01) [![Portfolio Badge](https://img.shields.io/badge/-ahsanlab.me-000000?style=flat-square&logo=vercel&logoColor=white&link=https://ahsanlab.me)](https://ahsanlab.me)
 
 ---
 
@@ -40,10 +41,16 @@ Feel free to reach out to me for collaboration or just a friendly chat about tec
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django-Rest-Framework](https://img.shields.io/badge/-Django--Rest--Framework-092E20?style=flat-square&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Phoenix](https://img.shields.io/badge/-Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Microservice](https://img.shields.io/badge/-Microservice-006DB6?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -53,6 +60,10 @@ Feel free to reach out to me for collaboration or just a friendly chat about tec
 ![DRY](https://img.shields.io/badge/-DRY-00599C?style=flat-square&logo=codeforces&logoColor=white)
 ![SMS & Payment Gateway](https://img.shields.io/badge/-SMS%20&%20Payment%20Gateway-4CAF50?style=flat-square&logo=messenger&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/-OAuth%202.0-3C3C3D?style=flat-square&logo=oauth&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![LiveKit SFU](https://img.shields.io/badge/-LiveKit%20SFU-00B2FF?style=flat-square&logo=webrtc&logoColor=white)
+![OpenAI / LLM](https://img.shields.io/badge/-OpenAI%20%2F%20LLM-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG%20Workflows-5A67D8?style=flat-square&logo=langchain&logoColor=white)
 
 ---
 
@@ -87,11 +98,13 @@ My goal is to be a Technical Architect by utilizing my technical expertise and c
 
 ### Strong Knowledge:
 
-- **Programming Languages**: Python, Django, Django-Rest-Framework, JavaScript, React, Tailwind CSS, Microservice, Docker, Kubernetes
+- **Backend Systems**: Python, Django, Django-Rest-Framework, Node.js, Express, Phoenix, Laravel, REST, GraphQL, FastAPI
+- **Architecture & Real-time**: Microservices, API Gateway, WebSocket, LiveKit SFU, Redis, Kafka, scalable system design
+- **AI / LLM**: OpenAI API, RAG, NLP workflows, AI-enabled automation
 
 ### Industry Experience:
 
-- **Frameworks & Technologies**: Python, Django, Django-Rest-Framework, PHP, Laravel, React, Redux, Nextjs, PostgreSQL, MySQL, Redis, JavaScript, Tailwind CSS, Bootstrap, HTML, CSS, Microservice Architecture, SOLID & DRY, SMS & Payment Gateway, OAuth 2.0
+- **Frameworks & Technologies**: Python, Django, Django-Rest-Framework, PHP, Laravel, Node.js, Express, Phoenix, React, Redux, Nextjs, REST, GraphQL, FastAPI, PostgreSQL, MySQL, Redis, Kafka, WebSocket, LiveKit SFU, OpenAI API / RAG, JavaScript, Tailwind CSS, Bootstrap, HTML, CSS, Microservice Architecture, API Gateway, SOLID & DRY, SMS & Payment Gateway, OAuth 2.0
 
 ### DevOps & Platforms:
 
@@ -111,9 +124,25 @@ My goal is to be a Technical Architect by utilizing my technical expertise and c
 
 ## 💼 Work Experience
 
+**Software Developer (Freelance) - Upwork**
+
+- **2024 – Present**
+- Top Rated freelancer with 100% Job Success delivering backend, full-stack, AI/LLM integration and web-scraping projects.
+
+**Backend / Real-time Systems - Matrix Bingo**
+
+- **Current**
+- Developing the backend game engine, WebSocket events and [LiveKit](https://livekit.io) SFU video-calling setup for a scale-oriented real-time multiplayer bingo platform ([matrixbingo.com](https://matrixbingo.com)).
+
+**Backend Developer - Tovari Oy, Joensuu, Finland**
+
+- **2025**
+- Integrated Express.js backend services with Screaming Frog SEO Spider and the OpenAI API while working within Finnish engineering culture (short-term, part of the govt. training program).
+
 **Software Engineer (Full Time) - Interlink TechSoft Limited**
 
 - **November 2022 – December 2023**
+- Contributed to Python, Django and Express.js microservices for a public library management system serving 60+ district branches, plus modules for a government archive platform.
 - Contributed to several modules of the Library Research and Archive Management System of the Parliament of Bangladesh Government, improving efficiency and user experience.
 - Collaborated with UI/UX teams for successful project outcomes for the SUST and PUST library websites.
 - Designed and developed the Public Library Management System with Microservice Architecture, ensuring a robust and scalable system.
@@ -184,34 +213,57 @@ Innovative, Supportive, Reliable, Analytical, Flexible, Tech-savvy, Active liste
 
 ---
 
-### My Old Individual Projects Demo:
+## 🚀 Featured Projects
 
-<a align="left" href="https://globalmarketplace.online">
-  <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/Global-Marketplace.png?raw=true" />
-</a>
-<a align="left" href="https://ksfchemicals.com">
-  <img  alt="Auction project" width="300px" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/KS-Friends-Chemical.png?raw=true" />
-</a>
-<a align="left" href="https://ahsaan-habib.github.io/">
-  <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/test.gif?raw=true" />
-</a>
-<a align="left" href="https://ahsaan-habib.github.io/">
-  <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/vidly-app.png?raw=true" />
-</a>
-<a align="left" href="https://ahsaan-habib.github.io/">
-  <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/auction.gif?raw=true" />
-</a>
-<a align="left" href="https://ahsaan-habib.github.io/">
-  <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/todo.gif?raw=true" />
-</a>
-<a align="left" href="https://ahsaan-habib.github.io/">
-  <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/weather.gif?raw=true" />
-</a>
-<a align="left" href="https://ahsaan-habib.github.io/">
-  <img  alt="Auction project" width="300" height="auto" src="https://github.com/ahsaan-habib/ahsaan-habib/blob/main/assets/mail.gif?raw=true" />
- </a>
- 
- <br />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://matrixbingo.com/">
+        <img src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/matrixbingo.webp" width="100%" alt="Matrix Bingo" />
+      </a>
+      <br /><b><a href="https://matrixbingo.com/">Matrix Bingo</a></b>
+      <p>Real-time multiplayer game platform — backend game engine, WebSocket events and LiveKit SFU video calling.</p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://ahsanlab.me/">
+        <img src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/tovaribanner.jpg" width="100%" alt="Tovari AI Integration" />
+      </a>
+      <br /><b>Tovari AI Integration</b>
+      <p>Express.js backend connecting Screaming Frog SEO tooling with OpenAI-powered workflow automation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://ksfchemicals.com/">
+        <img src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/ksfchemicals.webp" width="100%" alt="KS Friends Chemicals" />
+      </a>
+      <br /><b><a href="https://ksfchemicals.com/">KS Friends Chemicals</a></b>
+      <p>Production Django web platform for ksfchemicals.com.</p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://farmioglobal.com/">
+        <img src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/farmio.webp" width="100%" alt="Farmio Global" />
+      </a>
+      <br /><b><a href="https://farmioglobal.com/">Farmio Global</a></b>
+      <p>Public product system connecting rural Bangladesh producers with international buyers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://www.upwork.com/freelancers/ahsan01">
+        <img src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/upwork_profile.png" width="100%" alt="Upwork - Top Rated" />
+      </a>
+      <br /><b><a href="https://www.upwork.com/freelancers/ahsan01">Upwork — Top Rated</a></b>
+      <p>Backend, full-stack, AI/LLM integration and web-scraping work with 100% Job Success.</p>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <b>More on my portfolio</b>
+      <p><a href="https://ahsanlab.me">→ ahsanlab.me</a></p>
+    </td>
+  </tr>
+</table>
+
+<br />
  
  ---
  
