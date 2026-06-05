@@ -270,10 +270,9 @@ Innovative, Supportive, Reliable, Analytical, Flexible, Tech-savvy, Active liste
 <br />
 
 ### Most Used Languages
-
-<br />
-<p align="center"> <img alt="Ahsan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsaan-habib&show_icons=true&theme=gotham" alt="ahsaan-habib languages" />
- </p>
+<p align="center">
+  <img src="./top-langs.svg" alt="Most Used Languages" />
+</p>
 
 ### My GitHub Stats
 
