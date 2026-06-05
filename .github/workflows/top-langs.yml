@@ -1,5 +1,7 @@
 name: Top Languages
 on:
+  push:
+    branches: [main]
   schedule: [{ cron: "0 0 * * *" }]   # daily
   workflow_dispatch:
 permissions:
@@ -10,18 +12,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           USER: ${{ github.repository_owner }}
         run: |
           python3 - <<'EOF'
-          import os, json, urllib.request
+          import os, sys, json, urllib.request
           tok, user = os.environ["GH_TOKEN"], os.environ["USER"]
-          q = """query($l:String!){user(login:$l){repositories(first:100,ownerAffiliations:OWNER,isFork:false){
+          # Pull every owned, non-fork repo (paginated) so the stats reflect all your code.
+          q = """query($l:String!,$c:String){user(login:$l){repositories(first:100,after:$c,ownerAffiliations:OWNER,isFork:false){
+                 pageInfo{hasNextPage endCursor}
                  nodes{languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}}}"""
-          req = urllib.request.Request("https://api.github.com/graphql",
-                data=json.dumps({"query": q, "variables": {"l": user}}).encode(),
-                headers={"Authorization": f"bearer {tok}", "Content-Type": "application/json"})
-          nodes = json.load(urllib.request.urlopen(req))["data"]["user"]["repositories"]["nodes"]
+          nodes, cursor = [], None
+          while True:
+              req = urllib.request.Request("https://api.github.com/graphql",
+                    data=json.dumps({"query": q, "variables": {"l": user, "c": cursor}}).encode(),
+                    headers={"Authorization": f"bearer {tok}", "Content-Type": "application/json"})
+              res = json.load(urllib.request.urlopen(req))
+              if "errors" in res:
+                  sys.exit(f"GitHub API error: {res['errors']}")
+              repos = res["data"]["user"]["repositories"]
+              nodes += repos["nodes"]
+              if not repos["pageInfo"]["hasNextPage"]:
+                  break
+              cursor = repos["pageInfo"]["endCursor"]
           tot, col = {}, {}
           for r in nodes:
               for e in r["languages"]["edges"]:
