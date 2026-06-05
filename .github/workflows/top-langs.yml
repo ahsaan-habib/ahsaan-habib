@@ -19,18 +19,20 @@ jobs:
           import os, sys, json, urllib.request
           tok, user = os.environ["GH_TOKEN"], os.environ["USER"]
           # Pull every owned, non-fork repo (paginated) so the stats reflect all your code.
-          q = """query($l:String!,$c:String){user(login:$l){repositories(first:100,after:$c,ownerAffiliations:OWNER,isFork:false){
-                 pageInfo{hasNextPage endCursor}
-                 nodes{languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}}}"""
-          nodes, cursor = [], None
-          while True:
+          def gql(query, variables):
               req = urllib.request.Request("https://api.github.com/graphql",
-                    data=json.dumps({"query": q, "variables": {"l": user, "c": cursor}}).encode(),
+                    data=json.dumps({"query": query, "variables": variables}).encode(),
                     headers={"Authorization": f"bearer {tok}", "Content-Type": "application/json"})
               res = json.load(urllib.request.urlopen(req))
               if "errors" in res:
                   sys.exit(f"GitHub API error: {res['errors']}")
-              repos = res["data"]["user"]["repositories"]
+              return res["data"]
+          q = """query($l:String!,$c:String){user(login:$l){repositories(first:100,after:$c,ownerAffiliations:OWNER,isFork:false){
+                 pageInfo{hasNextPage endCursor}
+                 nodes{stargazerCount languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}}}"""
+          nodes, cursor = [], None
+          while True:
+              repos = gql(q, {"l": user, "c": cursor})["user"]["repositories"]
               nodes += repos["nodes"]
               if not repos["pageInfo"]["hasNextPage"]:
                   break
@@ -57,9 +59,39 @@ jobs:
                  f'<text x="25" y="32" fill="#58a6ff" font-size="16" font-weight="600">Most Used Languages</text>'
                  f'{"".join(rows)}</svg>')
           open("top-langs.svg", "w").write(svg)
+
+          # ---- GitHub stats card (self-hosted, no external service) ----
+          stars = sum(r["stargazerCount"] for r in nodes)
+          sq = """query($l:String!){user(login:$l){
+                 followers{totalCount}
+                 pullRequests{totalCount}
+                 issues{totalCount}
+                 repositories(ownerAffiliations:OWNER,isFork:false){totalCount}
+                 contributionsCollection{totalCommitContributions restrictedContributionsCount}}}"""
+          u = gql(sq, {"l": user})["user"]
+          cc = u["contributionsCollection"]
+          stats = [
+              ("Total Stars Earned", stars),
+              ("Total Commits (last yr)", cc["totalCommitContributions"] + cc["restrictedContributionsCount"]),
+              ("Total PRs", u["pullRequests"]["totalCount"]),
+              ("Total Issues", u["issues"]["totalCount"]),
+              ("Public Repos", u["repositories"]["totalCount"]),
+              ("Followers", u["followers"]["totalCount"]),
+          ]
+          srows, y = [], 60
+          for label, val in stats:
+              srows.append(f'<text x="25" y="{y}" fill="#c9d1d9" font-size="13">{label}</text>'
+                           f'<text x="395" y="{y}" fill="#58a6ff" font-size="13" font-weight="600" text-anchor="end">{val:,}</text>')
+              y += 30
+          sh = y + 5
+          ssvg = (f'<svg width="420" height="{sh}" viewBox="0 0 420 {sh}" xmlns="http://www.w3.org/2000/svg">'
+                  f'<rect width="420" height="{sh}" rx="6" fill="#0d1117" stroke="#30363d"/>'
+                  f'<text x="25" y="35" fill="#58a6ff" font-size="16" font-weight="600">{user}’s GitHub Stats</text>'
+                  f'{"".join(srows)}</svg>')
+          open("github-stats.svg", "w").write(ssvg)
           EOF
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add top-langs.svg
-          git diff --quiet --staged || (git commit -m "update lang stats" && git push)
+          git add top-langs.svg github-stats.svg
+          git diff --quiet --staged || (git commit -m "update github stats" && git push)

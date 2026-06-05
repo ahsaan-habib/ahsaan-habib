@@ -277,8 +277,5 @@ Innovative, Supportive, Reliable, Analytical, Flexible, Tech-savvy, Active liste
 
 ### My GitHub Stats
 
-<details>
-    <summary>Statistic</summary>
- <p align="center"><img src="https://gpvc.arturio.dev/ahsaan-habib" alt="Profile Views"> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahsaan-habib&show_icons=true&theme=gotham" alt="ahsaan-habib Statistics" /></p>
-</details>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ahsaan-habib&color=blue&style=flat-square" alt="Profile Views"></p>
+<p align="center"><img src="./github-stats.svg" alt="ahsaan-habib GitHub Stats" /></p>
