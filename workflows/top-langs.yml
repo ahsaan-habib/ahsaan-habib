@@ -1,0 +1,52 @@
+name: Top Languages
+on:
+  schedule: [{ cron: "0 0 * * *" }]   # daily
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER: ${{ github.repository_owner }}
+        run: |
+          python3 - <<'EOF'
+          import os, json, urllib.request
+          tok, user = os.environ["GH_TOKEN"], os.environ["USER"]
+          q = """query($l:String!){user(login:$l){repositories(first:100,ownerAffiliations:OWNER,isFork:false){
+                 nodes{languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}}}"""
+          req = urllib.request.Request("https://api.github.com/graphql",
+                data=json.dumps({"query": q, "variables": {"l": user}}).encode(),
+                headers={"Authorization": f"bearer {tok}", "Content-Type": "application/json"})
+          nodes = json.load(urllib.request.urlopen(req))["data"]["user"]["repositories"]["nodes"]
+          tot, col = {}, {}
+          for r in nodes:
+              for e in r["languages"]["edges"]:
+                  n = e["node"]["name"]
+                  tot[n] = tot.get(n, 0) + e["size"]
+                  col[n] = e["node"]["color"] or "#858585"
+          top = sorted(tot.items(), key=lambda x: -x[1])[:6]
+          g = sum(v for _, v in top) or 1
+          rows, y = [], 55
+          for n, s in top:
+              p = s / g * 100
+              rows.append(f'<text x="25" y="{y}" fill="#c9d1d9" font-size="12">{n}</text>'
+                          f'<text x="375" y="{y}" fill="#8b949e" font-size="12" text-anchor="end">{p:.1f}%</text>'
+                          f'<rect x="25" y="{y+6}" width="350" height="8" rx="4" fill="#21262d"/>'
+                          f'<rect x="25" y="{y+6}" width="{p/100*350:.1f}" height="8" rx="4" fill="{col[n]}"/>')
+              y += 32
+          h = y + 5
+          svg = (f'<svg width="420" height="{h}" viewBox="0 0 420 {h}" xmlns="http://www.w3.org/2000/svg">'
+                 f'<rect width="420" height="{h}" rx="6" fill="#0d1117" stroke="#30363d"/>'
+                 f'<text x="25" y="32" fill="#58a6ff" font-size="16" font-weight="600">Most Used Languages</text>'
+                 f'{"".join(rows)}</svg>')
+          open("top-langs.svg", "w").write(svg)
+          EOF
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add top-langs.svg
+          git diff --quiet --staged || (git commit -m "update lang stats" && git push)
