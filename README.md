@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" > Hi, I'm Ahsan Habib, a backend-focused, dependable full-stack software developer with experience building web applications, APIs, AI-enabled automation, microservice-based systems and integration-heavy products. I build scalable web systems that connect products, APIs, AI and automation. Over three years I've delivered enterprise projects with clean code and efficient use of modern web technologies, helping convert a vision and an idea into meaningful, useful products. These days I focus on backend and real-time systems, AI/LLM integration and web-scraping, working as a Top Rated freelancer on Upwork with 100% Job Success. I am from Thakurgaon, Bangladesh, currently living in Joensuu, Finland.!!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" > Hi, I'm Ahsan Habib, a **Software Engineer | Backend Systems & Applied AI**. Since 2022 I've been building backend services, full-stack products and AI-enabled workflows: public-sector microservices, API integrations, freelance product delivery and real-time multiplayer systems. My applied AI work covers RAG, tool-calling agents, evaluation pipelines, LLM observability, local inference and streaming voice, documented as case studies at [tech.ahsanlab.me](https://tech.ahsanlab.me). I'm a Top Rated freelancer on Upwork with 100% Job Success, including a delivered AI-agent workflow with tool integration. I am from Thakurgaon, Bangladesh, currently living in Joensuu, Finland, and authorized for full-time work in Finland and the EU.
 <br/>
 <br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/122.gif" width="300" height="auto" />
@@ -9,15 +9,17 @@
 
 - 👨🏽‍💻 Proven expertise in advanced web technologies, especially in Python, Django, PHP, Laravel, Node.js, Phoenix, Javascript, Typescript, ReactJs & NextJs.
 - ⚡ Currently building real-time multiplayer systems (WebSocket + LiveKit SFU) and AI/LLM-powered backend integrations.
+- 🤖 Applied AI: hybrid-retrieval RAG with citation/refusal gates, bounded tool-calling agents, Ragas eval sets with CI gates, and Langfuse tracing for tokens, cost and latency.
 - 💬 Ask me about Anything, I'll be happy to answer.
 - 😄 Fun fact: I love to watch popular and recent movies and series.
 - ✍ You can find my projects here **[Portfolio → ahsanlab.me](https://ahsanlab.me)**
+- 🧪 AI engineering case studies: **[tech.ahsanlab.me](https://tech.ahsanlab.me)**
 
 ## 📫 Let's Connect!
 
 Feel free to reach out to me for collaboration or just a friendly chat about tech and innovations!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Ahsan_Habib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahsaan-habib)](https://www.linkedin.com/in/ahsaan-habib) [![Gmail Badge](https://img.shields.io/badge/-ahsan.habib.pro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahsan.habib.pro@gmail.com)](mailto:ahsan.habib.pro@gmail.com) [![Upwork Badge](https://img.shields.io/badge/-Top_Rated_on_Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/ahsan01)](https://www.upwork.com/freelancers/ahsan01) [![Portfolio Badge](https://img.shields.io/badge/-ahsanlab.me-000000?style=flat-square&logo=vercel&logoColor=white&link=https://ahsanlab.me)](https://ahsanlab.me)
+[![LinkedIn Badge](https://img.shields.io/badge/-Ahsan_Habib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahsaan-habib)](https://www.linkedin.com/in/ahsaan-habib) [![Gmail Badge](https://img.shields.io/badge/-ahsan.habib.pro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahsan.habib.pro@gmail.com)](mailto:ahsan.habib.pro@gmail.com) [![Upwork Badge](https://img.shields.io/badge/-Top_Rated_on_Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/ahsan01)](https://www.upwork.com/freelancers/ahsan01) [![Portfolio Badge](https://img.shields.io/badge/-ahsanlab.me-000000?style=flat-square&logo=vercel&logoColor=white&link=https://ahsanlab.me)](https://ahsanlab.me) [![AI Case Studies Badge](https://img.shields.io/badge/-tech.ahsanlab.me-412991?style=flat-square&logo=openai&logoColor=white&link=https://tech.ahsanlab.me)](https://tech.ahsanlab.me)
 
 ---
 
@@ -64,6 +66,10 @@ Feel free to reach out to me for collaboration or just a friendly chat about tec
 ![LiveKit SFU](https://img.shields.io/badge/-LiveKit%20SFU-00B2FF?style=flat-square&logo=webrtc&logoColor=white)
 ![OpenAI / LLM](https://img.shields.io/badge/-OpenAI%20%2F%20LLM-412991?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG%20Workflows-5A67D8?style=flat-square&logo=langchain&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-Tool--Calling%20Agents-0F766E?style=flat-square&logo=openai&logoColor=white)
+![Ragas](https://img.shields.io/badge/-Ragas%20Evals-5A67D8?style=flat-square&logo=python&logoColor=white)
+![Langfuse](https://img.shields.io/badge/-Langfuse%20Tracing-0A0A0A?style=flat-square&logo=opentelemetry&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 ---
 
@@ -100,11 +106,11 @@ My goal is to be a Technical Architect by utilizing my technical expertise and c
 
 - **Backend Systems**: Python, Django, Django-Rest-Framework, Node.js, Express, Phoenix, Laravel, REST, GraphQL, FastAPI
 - **Architecture & Real-time**: Microservices, API Gateway, WebSocket, LiveKit SFU, Redis, Kafka, scalable system design
-- **AI / LLM**: OpenAI API, RAG, NLP workflows, AI-enabled automation
+- **Applied AI / LLM**: OpenAI API, RAG (embeddings, Chroma, BM25, reciprocal rank fusion, cross-encoder reranking, citation/refusal handling), LLM tool calling and agent loops, structured outputs (Pydantic), Ragas evaluation and CI regression gates, Langfuse tracing, Ollama / local inference, streaming ASR/TTS
 
 ### Industry Experience:
 
-- **Frameworks & Technologies**: Python, Django, Django-Rest-Framework, PHP, Laravel, Node.js, Express, Phoenix, React, Redux, Nextjs, REST, GraphQL, FastAPI, PostgreSQL, MySQL, Redis, Kafka, WebSocket, LiveKit SFU, OpenAI API / RAG, JavaScript, Tailwind CSS, Bootstrap, HTML, CSS, Microservice Architecture, API Gateway, SOLID & DRY, SMS & Payment Gateway, OAuth 2.0
+- **Frameworks & Technologies**: Python, Django, Django-Rest-Framework, PHP, Laravel, Node.js, Express, Phoenix, React, Redux, Nextjs, REST, GraphQL, FastAPI, PostgreSQL, MySQL, Redis, Kafka, WebSocket, LiveKit SFU, OpenAI API / RAG, Ragas, Langfuse, Ollama, JavaScript, Tailwind CSS, Bootstrap, HTML, CSS, Microservice Architecture, API Gateway, SOLID & DRY, SMS & Payment Gateway, OAuth 2.0
 
 ### DevOps & Platforms:
 
@@ -113,6 +119,12 @@ My goal is to be a Technical Architect by utilizing my technical expertise and c
 ---
 
 ## 🎓 Education
+
+**Finnish Integration Training and Preparatory Studies for Higher Education (30 ECTS)**
+
+- **Duration**: 2024 – 2026
+- **Institution**: Xamk, South-Eastern Finland University of Applied Sciences
+- Finnish B2 course passed with grade 4/5.
 
 **B. Sc. in Information and Communication Technology**
 
@@ -128,6 +140,12 @@ My goal is to be a Technical Architect by utilizing my technical expertise and c
 
 - **2024 – Present**
 - Top Rated freelancer with 100% Job Success delivering backend, full-stack, AI/LLM integration and web-scraping projects.
+- Delivered a core AI-agent workflow with tool integration for a freelance client; contract completed with a 5.0 rating.
+
+**Independent AI Engineering - AhsanLab Tech**
+
+- **2025 – Present**
+- Build RAG, evaluation, observability, streaming voice and tool-calling agent projects, published as case studies at [tech.ahsanlab.me](https://tech.ahsanlab.me).
 
 **Backend / Real-time Systems - Matrix Bingo**
 
@@ -169,6 +187,35 @@ My goal is to be a Technical Architect by utilizing my technical expertise and c
 
 ---
 
+## 🤖 Applied AI Lab
+
+One client delivery, plus independent engineering projects documented as case studies at [tech.ahsanlab.me](https://tech.ahsanlab.me).
+
+| Project | What it is | Case study |
+|---|---|---|
+| **AI Agent Workflow** (Upwork client, ★ 5.0) | Delivered a core AI-agent workflow with tool integration for a freelance client. | [Upwork profile](https://www.upwork.com/freelancers/ahsan01) |
+| **Documentation RAG** | Documentation assistant combining BM25/vector hybrid retrieval, reciprocal rank fusion, cross-encoder reranking, and a citation/refusal gate. | [Read](https://tech.ahsanlab.me/posts/i-built-four-ai-engineering-projects-in-12-weeks-here-is-every-number) |
+| **Evals & Observability** | Hand-verified eval set and CI checks for retrieval quality, grounded answers and correct refusals (Ragas), traced with self-hosted Langfuse (retrieval, prompts, tokens/cost, latency percentiles). | [Evals](https://tech.ahsanlab.me/posts/how-do-you-know-your-ai-got-worse-build-the-eval-set-first) · [Tracing](https://tech.ahsanlab.me/posts/your-ai-system-is-failing-right-now-and-nothing-is-alerting) |
+| **Streaming Voice Agent** | ASR → retrieval → streaming LLM → TTS over WebSockets, with sentence-level speech output and explicit timeout/fallback paths. | [Read](https://tech.ahsanlab.me/posts/the-940ms-voice-agent-where-every-millisecond-goes) |
+| **Bounded Tool-Calling Agent** | Tool-schema design, step/cost limits, repetition detection, context compaction, explicit termination. | [Read](https://tech.ahsanlab.me/posts/inside-the-agent-loop-how-an-ai-agent-actually-decides-what-to-do) |
+| **Local LLM Benchmark** | Compared small local models (Llama 3.2 3B, Phi-4-mini, Mistral 7B) via Ollama + FastAPI for latency, memory, throughput and schema-valid structured output. | [Read](https://tech.ahsanlab.me/posts/can-a-3b-model-do-the-job-benchmarking-local-llms-on-one-laptop) |
+
+---
+
+## ⭐ Client Feedback
+
+Public Upwork reviews (5.0 rating each), trimmed with "…":
+
+> "I gave Ahsan full control of the system and trusted him to handle the project independently. After just a few days, he came back with the entire project successfully completed. … Ahsan did an excellent job building and integrating our AI and LLM-based system, understood the technical requirements quickly, and delivered a reliable solution. … I would gladly work with him again and highly recommend him for AI, LLM, and full-stack development projects."
+>
+> — Upwork client · *AI-Native Full-Stack Web Developer | AI & LLM Integration* · Aug 12 – Oct 5, 2026
+
+> "Ahsan has been an absolutely dependable and invaluable developer for our project. He has been genuinely life-saving at critical moments and consistently finds practical solutions whenever we face a technical challenge. … he takes the time to understand the entire business, the technical architecture, and what we are ultimately trying to achieve. … Because of the quality of his work and how well he now understands our business, I am already assigning him a new AI Engineer role to continue working with us on the next stage of the project."
+>
+> — Upwork client · *Website Upgrade .php* · Mar 1, 2025 – Aug 12, 2026
+
+---
+
 ## 🌟 Interpersonal Traits
 
 Innovative, Supportive, Reliable, Analytical, Flexible, Tech-savvy, Active listener
@@ -179,6 +226,7 @@ Innovative, Supportive, Reliable, Analytical, Flexible, Tech-savvy, Active liste
 
 - **Bangla**: Native
 - **English**: Professional Proficiency
+- **Finnish**: Intermediate (B1+)
 
 ---
 
@@ -225,14 +273,21 @@ Innovative, Supportive, Reliable, Analytical, Flexible, Tech-savvy, Active liste
       <p>Real-time multiplayer game platform — backend game engine, WebSocket events and LiveKit SFU video calling.</p>
     </td>
     <td width="50%" align="center">
+      <a href="https://momentstage.com/">
+        <img src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/momentstage.webp" width="100%" alt="MomentStage" />
+      </a>
+      <br /><b><a href="https://momentstage.com/">MomentStage</a></b>
+      <p>Animated, shareable greeting cards and invitations: 47 themes, 7 languages, light and dark modes, music, RSVPs and QR share images. Branded and built end to end.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <a href="https://ahsanlab.me/">
         <img src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/tovaribanner.jpg" width="100%" alt="Tovari AI Integration" />
       </a>
       <br /><b>Tovari AI Integration</b>
       <p>Express.js backend connecting Screaming Frog SEO tooling with OpenAI-powered workflow automation.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <a href="https://ksfchemicals.com/">
         <img src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/ksfchemicals.webp" width="100%" alt="KS Friends Chemicals" />
@@ -240,6 +295,8 @@ Innovative, Supportive, Reliable, Analytical, Flexible, Tech-savvy, Active liste
       <br /><b><a href="https://ksfchemicals.com/">KS Friends Chemicals</a></b>
       <p>Production Django web platform for ksfchemicals.com.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://farmioglobal.com/">
         <img src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/farmio.webp" width="100%" alt="Farmio Global" />
@@ -247,8 +304,6 @@ Innovative, Supportive, Reliable, Analytical, Flexible, Tech-savvy, Active liste
       <br /><b><a href="https://farmioglobal.com/">Farmio Global</a></b>
       <p>Public product system connecting rural Bangladesh producers with international buyers.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <a href="https://www.upwork.com/freelancers/ahsan01">
         <img src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/upwork_profile.png" width="100%" alt="Upwork - Top Rated" />
@@ -256,9 +311,11 @@ Innovative, Supportive, Reliable, Analytical, Flexible, Tech-savvy, Active liste
       <br /><b><a href="https://www.upwork.com/freelancers/ahsan01">Upwork — Top Rated</a></b>
       <p>Backend, full-stack, AI/LLM integration and web-scraping work with 100% Job Success.</p>
     </td>
-    <td width="50%" align="center" valign="middle">
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
       <b>More on my portfolio</b>
-      <p><a href="https://ahsanlab.me">→ ahsanlab.me</a></p>
+      <p><a href="https://ahsanlab.me">→ ahsanlab.me</a> · <a href="https://tech.ahsanlab.me">→ tech.ahsanlab.me</a> (AI case studies)</p>
     </td>
   </tr>
 </table>
