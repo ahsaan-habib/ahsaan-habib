@@ -9,17 +9,12 @@
 
 - 👨🏽‍💻 Proven expertise in advanced web technologies, especially in Python, Django, PHP, Laravel, Node.js, Phoenix, Javascript, Typescript, ReactJs & NextJs.
 - ⚡ Currently building real-time multiplayer systems (WebSocket + LiveKit SFU) and AI/LLM-powered backend integrations.
+- 🎉 Recently launched [MomentStage](https://momentstage.com), an animated greeting and invitation platform I branded, designed and built end to end.
 - 🤖 Applied AI: hybrid-retrieval RAG with citation/refusal gates, bounded tool-calling agents, Ragas eval sets with CI gates, and Langfuse tracing for tokens, cost and latency.
 - 💬 Ask me about Anything, I'll be happy to answer.
 - 😄 Fun fact: I love to watch popular and recent movies and series.
 - ✍ You can find my projects here **[Portfolio → ahsanlab.me](https://ahsanlab.me)**
 - 🧪 AI engineering case studies: **[tech.ahsanlab.me](https://tech.ahsanlab.me)**
-
-## 📫 Let's Connect!
-
-Feel free to reach out to me for collaboration or just a friendly chat about tech and innovations!
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Ahsan_Habib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahsaan-habib)](https://www.linkedin.com/in/ahsaan-habib) [![Gmail Badge](https://img.shields.io/badge/-ahsan.habib.pro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahsan.habib.pro@gmail.com)](mailto:ahsan.habib.pro@gmail.com) [![Upwork Badge](https://img.shields.io/badge/-Top_Rated_on_Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/ahsan01)](https://www.upwork.com/freelancers/ahsan01) [![Portfolio Badge](https://img.shields.io/badge/-ahsanlab.me-000000?style=flat-square&logo=vercel&logoColor=white&link=https://ahsanlab.me)](https://ahsanlab.me) [![AI Case Studies Badge](https://img.shields.io/badge/-tech.ahsanlab.me-412991?style=flat-square&logo=openai&logoColor=white&link=https://tech.ahsanlab.me)](https://tech.ahsanlab.me)
 
 ---
 
@@ -243,24 +238,6 @@ Innovative, Supportive, Reliable, Analytical, Flexible, Tech-savvy, Active liste
 
 ---
 
-## 📞 References
-
-**Mithun Modak**
-
-- **Director, Interlink TechSoft Limited**
-- **Email**: mithun@intertechbd.com
-- **Mobile**: +880 1550-063216
-- **Phone**: +880 2223364175
-
-**Abu Zabar Rezvhe**
-
-- **BDM-Bangladesh operation, Atlas Axillia Co. (Pvt) Ltd.**
-- **Entrepreneur, KS Friends Chemical Ltd.**
-- **Phone**: +880 1711-504223
-- **Email**: rezvhe@gmail.com
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -277,7 +254,7 @@ Innovative, Supportive, Reliable, Analytical, Flexible, Tech-savvy, Active liste
         <img src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/momentstage.webp" width="100%" alt="MomentStage" />
       </a>
       <br /><b><a href="https://momentstage.com/">MomentStage</a></b>
-      <p>Animated, shareable greeting cards and invitations: 47 themes, 7 languages, light and dark modes, music, RSVPs and QR share images. Branded and built end to end.</p>
+      <p>Animated, shareable greeting cards and invitations: 47 themes, 7 languages, light and dark modes, music, RSVPs and share-ready images with QR codes. Designed, branded and developed end to end.</p>
     </td>
   </tr>
   <tr>
